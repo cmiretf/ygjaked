@@ -18,7 +18,7 @@ char *cmd_to_str[N_CMD] = {"No command", "Unknown", "Exit", "Following", "Previo
 char *short_cmd_to_str[N_CMD] ={"","","e","f","p", "g", "d", "r", "l", "x"}; /*Comandos abreviados*/
 
  /*
- * @author Miguel Ángel Liaño
+ * @author Miguel Ángel Liañoo
  * @brief Interpreta el comando introducido por el usuario
  * @return Devuelve el comando introducido por el usuario
  */
